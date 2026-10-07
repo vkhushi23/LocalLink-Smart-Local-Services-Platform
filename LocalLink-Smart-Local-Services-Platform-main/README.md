@@ -116,17 +116,3 @@ Password: admin123
 
 ---
 
-## 📝 License
-This project is open-source and available under the **MIT License**.
-
----
-
-## 🙌 Contribution
-Contributions, issues, and feature requests are welcome!  
-Feel free to fork this repository and submit a pull request.
-
----
-
-## ✨ Author
-Developed by **Vaibhav Rawat**  
-For learning and academic purposes.
